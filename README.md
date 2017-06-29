@@ -1,2 +1,2 @@
 # leetcode-javascript
-Leetcode algorithms practice with JavaScript
+Leetcode algorithms practice with JavaScript ES6+
